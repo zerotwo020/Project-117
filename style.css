@@ -1,0 +1,16 @@
+body {
+background-color: burlywood;
+font-family: 'Dongle', sans-serif;
+font-size: 27px;
+}
+
+#score {
+    font-size: 35px;
+    margin-left: 20px;
+
+}
+#timer {
+    font-size: 35px;
+    margin-right: 20px;
+    float: right;
+}
